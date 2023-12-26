@@ -10,3 +10,6 @@ Download best_aug.pth and put in se335/
 ```
 streamlit run se335/demo.py 
 ```
+
+## Model training
+For train model please prefer to 'notebook.ipynb'
