@@ -8,5 +8,5 @@ Download best_aug.pth and put in se335/
 ## Run demo 
 
 ```
-streamlit run demo.py 
+streamlit run se335/demo.py 
 ```
