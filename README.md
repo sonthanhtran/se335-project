@@ -12,4 +12,4 @@ streamlit run se335/demo.py
 ```
 
 ## Model training
-For train model please prefer to 'notebook.ipynb'
+For model training please prefer to 'notebook.ipynb'
